@@ -1,6 +1,6 @@
 # fakeplate
 
-[![Build Status](https://travis-ci.com/WebReflection/fakeplate.svg?branch=master)](https://travis-ci.com/WebReflection/fakeplate) 
+[![Build Status](https://travis-ci.com/WebReflection/fakeplate.svg?branch=master)](https://travis-ci.com/WebReflection/fakeplate) [![Coverage Status](https://coveralls.io/repos/github/WebReflection/fakeplate/badge.svg?branch=master)](https://coveralls.io/github/WebReflection/fakeplate?branch=master)
 
 Convert a string into a unique template Array like object
 

@@ -11,7 +11,12 @@
     "coveralls": "cat ./coverage/lcov.info | coveralls",
     "test": "istanbul cover test/index.js"
   },
-  "keywords": ["template", "literal", "string", "converter"],
+  "keywords": [
+    "template",
+    "literal",
+    "string",
+    "converter"
+  ],
   "author": "Andrea Giammarchi",
   "license": "ISC",
   "devDependencies": {
@@ -28,5 +33,13 @@
   },
   "module": "esm/index.js",
   "unpkg": "min.js",
-  "description": "Convert a string into a unique template Array like object"
+  "description": "Convert a string into a unique template Array like object",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WebReflection/fakeplate.git"
+  },
+  "bugs": {
+    "url": "https://github.com/WebReflection/fakeplate/issues"
+  },
+  "homepage": "https://github.com/WebReflection/fakeplate#readme"
 }
