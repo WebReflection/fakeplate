@@ -1,5 +1,7 @@
 # fakeplate
 
+[![Build Status](https://travis-ci.com/WebReflection/fakeplate.svg?branch=master)](https://travis-ci.com/WebReflection/fakeplate) 
+
 Convert a string into a unique template Array like object
 
 ```js
