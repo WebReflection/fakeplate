@@ -1,0 +1,1 @@
+var fakeplate=function(){"use strict";var e=Object.create,t=Object.defineProperty,n=Object.freeze,u=e(null);return function(e){return u[e]||function(e,r){return u[e]=n(t(r,"raw",{value:r}))}(e,[e])}}();
